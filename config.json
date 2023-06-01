@@ -1,0 +1,7 @@
+{
+	"clientId": "123456789012345678",
+	"clientSecret": "dummyclientSecret",
+    "redirectUri": "http://localhost:3000",
+    "port": 3000,
+    "scope": ["identify", "connections"]
+}
